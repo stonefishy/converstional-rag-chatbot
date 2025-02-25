@@ -1,0 +1,18 @@
+.watermark {
+    display: none !important;
+}
+
+.ai-message {
+    background-color: hsl(var(--sidebar-background)) !important;
+    border-radius: 0.5rem;
+    padding: 1.2rem;
+}
+
+.bg-accent {
+    border-radius: 0.5rem !important;
+}
+
+.relative.flex.flex-col.flex-grow.overflow-y-auto {
+    scrollbar-width: thin;
+    scrollbar-color: hsl(var(--background)) hsl(var(--border));
+}

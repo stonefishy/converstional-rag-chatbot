@@ -1,0 +1,8 @@
+__pycache__/
+.files/
+.vscode/
+.idea/
+.pytest_cache/
+venv/
+faiss_files/
+.env
